@@ -38,7 +38,7 @@ This is a C++ template-based graph data structures and algorithms library, origi
 
 ## Legacy & Modernization
 
-This code was written back when **C++11 was in its infancy** (“raczkowało”), so it relies on:
+This code was written back when **C++11 was in its infancy**, so it relies on:
 
 - Raw pointers and manual `new`/`delete`.
 - `std::list` instead of `std::vector` for adjacency.
